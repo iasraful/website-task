@@ -44,7 +44,7 @@ export default function Heading() {
           <p className="text-slate-200 mt-6">
             Lorem ipsum dolor sit amet consectetur
           </p>
-          <button className="mt-12 py-3 px-14 bg-stone-400 text-zinc-800">
+          <button className="mt-12 py-3 px-14 bg-stone-400 text-zinc-800 transition ease-in-out delay-50 hover:-translate-y-1 hover:scale-110 hover:bg-stone-50 duration-300">
             SHOP NOW
           </button>
         </div>
