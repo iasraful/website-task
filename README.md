@@ -4,8 +4,6 @@ This project was bootstrapped with [Website](website-task.vercel.app).
 
 ## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
+Live: website-task.vercel.app
 
 
